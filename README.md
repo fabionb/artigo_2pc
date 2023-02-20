@@ -2,7 +2,7 @@
 
 Este repositório foi utilizado para a escrita do artigo sobre como chamadas remotas em contexto transacional de banco de dados impactam o tempo de resposta / escalabilidade da aplicação.
 
-O artigo pode ser encontrado na seguinte URL: ...
+O artigo pode ser encontrado na seguinte URL: https://www.fnbrandao.com.br/blog/2023/02/impacto-de-two-phase-commit-2pc-xa-na-disponibilidade-performance/
 
 ## Requisitos
 Rodar um Oracle com o seguinte comando:
